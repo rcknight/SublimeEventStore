@@ -14,10 +14,10 @@ def makeApiCall(url, operation, data, ignore404):
 		code = e.code;
 	except (urllib2.URLError) as (e):
 		err = '%s: URL error %s contacting API' % (__name__, str(e.reason))
-		code = e.code;
+		code = e.reason;
 	
 	#special case for the get to check if exists, 404 is expected
-	if ignore404 and e.code == 404:
+	if ignore404 and code == 404:
 		return None
 
 	sublime.error_message(err)
