@@ -6,8 +6,8 @@ No more copying and pasting!
 
 ###Installation
 
-You can install via [Sublime Package Control](http://wbond.net/sublime_packages/package_control)  (Soon!)
-Or you can clone this repo into your *Sublime Text 2/Packages*
+Will submit to [Sublime Package Control](http://wbond.net/sublime_packages/package_control) soon,
+for now you can clone this repo into your *Sublime Text 2/Packages*
 
 *Windows*
 ```shell
