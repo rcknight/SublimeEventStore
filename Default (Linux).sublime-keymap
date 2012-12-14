@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+e", "ctrl+o"], "command": "open_projection" },
+	{ "keys": ["ctrl+e", "ctrl+s"], "command": "save_projection" }
+]

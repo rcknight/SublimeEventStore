@@ -1,0 +1,4 @@
+[
+	{ "caption": "Event Store: Open Projection", "command": "open_projection"},
+	{ "caption": "Event Store: Save Projection", "command": "save_projection"}
+]

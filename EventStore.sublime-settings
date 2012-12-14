@@ -1,0 +1,4 @@
+{
+	// Your event store url and port
+	"EventStoreUrl": "http://127.0.0.1:2113"
+}
