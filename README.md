@@ -29,7 +29,7 @@ git clone git@github.com:rcknight/SublimeEventStore.git
 
 ###Usage
 
-The plugin can be accessed via the Toools menu, or the Command Palette
+The plugin can be accessed via the Tools menu, or the Command Palette
 
 The default keybindings are:
 
