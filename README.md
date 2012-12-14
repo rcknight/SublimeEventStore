@@ -32,8 +32,12 @@ git clone git@github.com:rcknight/SublimeEventStore.git
 The plugin can be accessed via the Toools menu, or the Command Palette
 
 The default keybindings are:
-[ctrl+e, ctrl+o] to open a projection from the Event Store
-[ctrl+e, ctrl+s] to save a projection to the Event Store
+
+```ctrl+e, ctrl+o``` to open a projection from the Event Store
+
+```ctrl+e, ctrl+s``` to save a projection to the Event Store
+
+When a new projection is saved, it is given the same name as the file it came from.
 
 ###Settings
 
