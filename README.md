@@ -2,6 +2,7 @@ SublimeEventStore
 =================
 
 A plugin to allow editing of your Event Store (http://GetEventStore.com) projections in Sublime Text 2
+
 No more copying and pasting!
 
 ###Installation
