@@ -1,13 +1,13 @@
 SublimeEventStore
 =================
 
-A plugin to allow editing of your Event Store projections in Sublime Text 2
+A plugin to allow editing of your Event Store (http://GetEventStore.com) projections in Sublime Text 2
 No more copying and pasting!
 
 ###Installation
 
-Will submit to [Sublime Package Control](http://wbond.net/sublime_packages/package_control) soon,
-for now you can clone this repo into your *Sublime Text 2/Packages*
+Available in [Sublime Package Control](http://wbond.net/sublime_packages/package_control),
+or you can clone this repo into your *Sublime Text 2/Packages*
 
 *Windows*
 ```shell
