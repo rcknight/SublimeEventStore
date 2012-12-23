@@ -7,8 +7,11 @@ No more copying and pasting!
 
 ###Installation
 
-Available in [Sublime Package Control](http://wbond.net/sublime_packages/package_control),
-or you can clone this repo into your *Sublime Text 2/Packages*
+Available in [Sublime Package Control](http://wbond.net/sublime_packages/package_control) as "Event Store Projection Editor"
+ (reccomended, you will receive automatic updates)
+
+
+Alternatively, you can clone this repo into your *Sublime Text 2/Packages*
 
 *Windows*
 ```shell
