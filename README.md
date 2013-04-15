@@ -47,3 +47,4 @@ When a new projection is saved, it is given the same name as the file it came fr
 
 By default the event store URL used is http://127.0.0.1:2113
 You can change this by edditing the file EventStore.sublime-settings in the package directory
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/5d5992e5f8ce6baa5dee3ee4264f2493 "githalytics.com")](http://githalytics.com/rcknight/SublimeEventStore)
