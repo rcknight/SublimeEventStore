@@ -47,4 +47,4 @@ When a new projection is saved, it is given the same name as the file it came fr
 
 By default the event store URL used is http://127.0.0.1:2113
 You can change this by edditing the file EventStore.sublime-settings in the package directory
-![GAProxy analytics](http://localhost:57290/UA-40151795-1/woftam1/woftam2)
+![GAProxy analytics](https://localhost:57290/UA-40151795-1/woftam1/woftam2)
